@@ -25,6 +25,7 @@
                     <div style = "text-align:center">
                     <img src= "img/logo2.png" text-align = "center" alt="Submit" vspace = "10" width="100" height="100"/>
                     </div>
+                </a>
                     <?php  
                         session_start();
                         if (!$_SESSION){
@@ -32,7 +33,7 @@
                     <nav class="navbar bg-light">
                         <div class="container-fluid"; style ="background-color: hsl(205, 60%, 88%)">
                             <a class="navbar-brand" href="./LOGIN_SIGNUP/login.php">
-                                <img src="./img/user.png" alt="" width="30" height="30" class="d-inline-block align-text-top">Đăng Nhập
+                                <img src="./img/user.png" alt="" width="20" height="20" class="d-inline-block align-text-top">Đăng Nhập
                             </a>
                         </div>
                     </nav>
@@ -74,8 +75,6 @@
                     <div style = "text-align:center">
                         <img  src= "img/bkg.png" alt="Submit" vspace = "10" hspace="475" width="automatic" height="300">
                     </div>
-
-                </a>
 
                 <div id="actions">
                     
