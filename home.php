@@ -33,7 +33,7 @@
                         <div class="container-fluid"; style ="background-color: hsl(205, 60%, 88%)">
                             <a class="navbar-brand" href="./LOGIN_SIGNUP/login.php">
                                 <img src="./img/user.png" alt="" width="30" height="30" class="d-inline-block align-text-top">Đăng Nhập
-                            </a>"
+                            </a>
                         </div>
                     </nav>
                     <?php
@@ -46,8 +46,6 @@
                         $row = mysqli_fetch_assoc($result);
                     }
                     ?>
-                    
-            
                             <h4>&nbsp;&nbsp;<?php echo $row["username"];?></h4>             
                             
                     <a href="./LOGIN_SIGNUP/logout.php">Đăng xuất</a>
