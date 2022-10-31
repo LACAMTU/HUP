@@ -33,6 +33,7 @@
                               <br>
                               <button class="join_btn">Đăng nhập</button>
                               <a href="./signup.php">Chưa có tài khoản?</a>
+                              <a href="./home.php">Trang chủ</a>
                          </div>
                     </form>       
     </body>
