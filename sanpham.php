@@ -149,7 +149,7 @@
                 <img class="img-thumbnail border-0" src="./img/20.jpg" alt="" style="height: 225px;">
             </div>
             <div style="height: 75px;">
-                <h2 class="mt-4">Nếu Tôi Biết Được Khi Còn</h2>
+                <h2 class="mt-4">Nếu Tôi Biết Được Khi Còn 20</h2>
                 <span class="mt-3 h2">80.000 đ</span>
             </div>
             <button type="button" class="btn btn-primary w-100 mt-3"
