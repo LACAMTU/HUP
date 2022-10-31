@@ -45,13 +45,9 @@
                         $sql = "SELECT * from users where pass = '$pw'";
                         $result = mysqli_query($conn, $sql);
                         $row = mysqli_fetch_assoc($result);
-                        echo "<h4>$row['username']</h4>
-                        <a href='./LOGIN_SIGNUP/logout.php'>Đăng xuất</a>
-                        ";
+                        echo "<h4>$row['username']</h4> <a href='./LOGIN_SIGNUP/logout.php'>Đăng xuất</a>";
                     }
                     ?>
-                                         
-                            
                    
                     <ul class="nav nav-pills nav-fill" >
                         <li class="nav-item">
