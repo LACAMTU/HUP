@@ -205,12 +205,9 @@
             <h3 style ="text-align:center" >  Cảm ơn bạn đã ghé thăm HÚP BOOK STORE </br> <h3> <br/>
             </div>
 
-            <!-- <br/> <div  style= "width:25%;float:left">  
-                <div class="logo">
-                    <img src="img/logo2.png" style= "width:100%" alt="" >
-                </div> -->
-                <br/> <p style ="text-align:center"><b>Mang kiến thức đến cho độc giả!</p>
-                <p style ="text-align:center"> Bạn cần sách? Chúng tôi có!</b></p>
+            
+                <br/> <p style ="text-align:center"><b><br/>Mang kiến thức đến cho độc giả!<br/>
+                 Bạn cần sách? Chúng tôi có!</b></p>
             </div> 
             <div style= "width:30%;float:left">
             
