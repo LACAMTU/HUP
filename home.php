@@ -42,14 +42,17 @@
                     {
                         $pw = $_SESSION['password'];
                         require_once './LOGIN_SIGNUP/config.php';
-                        $sql = "SELECT username from users where pass = '$pw'";
+                        $sql = "SELECT * from users where pass = '$pw'";
                         $result = mysqli_query($conn, $sql);
                         $row = mysqli_fetch_assoc($result);
+                        echo "<h4>$row['username']</h4>
+                        <a href='./LOGIN_SIGNUP/logout.php'>Đăng xuất</a>
+                        ";
                     }
                     ?>
-                            <h4>&nbsp;&nbsp;<?php echo $row["username"];?></h4>             
+                                         
                             
-                    <a href="./LOGIN_SIGNUP/logout.php">Đăng xuất</a>
+                   
                     <ul class="nav nav-pills nav-fill" >
                         <li class="nav-item">
                             <a class="nav-link active" aria-current="page"  style="background-color: lightslategray" href="home.php">Trang chủ</a>
