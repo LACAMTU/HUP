@@ -243,7 +243,7 @@
                 </div>
             </div>
 
-            <div class="footer_copyright_left" style ="text-align:center" >© HUB - 2022 BẢN QUYỀN CỦA HÚP BOOK STORE | hupbookstore.vn <br></div>
+            <!-- <div class="footer_copyright_left" style ="text-align:center" >© HUB - 2022 BẢN QUYỀN CỦA HÚP BOOK STORE | hupbookstore.vn <br></div> -->
   			
 
         </div> 
