@@ -207,7 +207,7 @@
 
             
                 <br/> <p style ="text-align:center"><b><br/>Mang kiến thức đến cho độc giả!<br/>
-                 Bạn cần sách? Chúng tôi có!</b></p>
+            
             </div> 
             <div style= "width:30%;float:left">
             
